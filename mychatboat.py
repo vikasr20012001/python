@@ -45,7 +45,7 @@ while True:
                 or (("text" in p) or ("Text" in p) or ("TEXT" in p)) and (("editor" in p) or ("Editor" in p) or ("EDITOR" in p))):
                 a.speak("WELLCOME TO NOTEPAD")
                 os.system("notepad")
-                
+                 
             elif (("browser" in p) or ("Browser" in p) or ("BROWSER" in p) or ("google" in p) or ("Google" in p) or ("GOOGLE" in p)
                 or ("chrome" in p) or ("Chrome" in p) or ("CHROME" in p)):
                 a.speak("WELLCOME TO CHROME BROWSER")
