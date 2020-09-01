@@ -13,7 +13,7 @@ print("3.RUN CHROME BROWSER")
 a.speak("RUN CHROME BROWSER")
 print("4.RUN WINDOW MEDIA PLAYER")
 a.speak("RUN WINDOW MEDIA PLAYER")
-print("5.RUN PYTHON") ;;;
+print("5.RUN PYTHON") 
 a.speak("RUN PYTHON ")
 print("6.RUN VLC PLAYER")
 a.speak("RUN VLC PLAYER")
