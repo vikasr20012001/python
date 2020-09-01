@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import pyttsx3 as a
 
