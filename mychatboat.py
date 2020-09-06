@@ -75,9 +75,11 @@ if i==1:
     elif ("exit" in p) or ("Exit" in p) or ("EXIT" in p):
         break
     else:
-        print()
+         print()
         print("***---***your input is invalid***---***")
+        a.speak("***---***your input is invalid***---***")
         print("***---***please enter a valid input***--- ***")
+        a.speak("***---***please enter a valid input***--- ***")
         print()
 elif i==2:
 
