@@ -24,7 +24,7 @@ a.speak("you can use text base Assistant press 2")
 print("please enter your choice which type of assistant  you need to  use:",end=' ')
 a.speak("please enter your choice which type of assistant  you need to  use")
 i=int(input())
-if i==1:
+if i==2:
   while True:
 
    
@@ -81,7 +81,7 @@ if i==1:
         print("***---***please enter a valid input***--- ***")
         a.speak("***---***please enter a valid input***--- ***")
         print()
-elif i==2:
+elif i==1:
 
  while True:
     r = b.Recognizer()
@@ -106,11 +106,13 @@ elif i==2:
             or ("notepad++ editor" in p)) and (("editor" in p) or ("EDITOR" in p) or ("Editor" in p)):
             os.system("notepad++")
             a.speak("WELLCOME TO NOTEPAD++ EDITOR")
+           
 
         elif (("notepad" in p) or ("Notepad" in p) or ("NOTEPAD" in p) or ("editor" in p) or ("Editor" in p) or (
                 "EDITOR" in p)
               or (("text" in p) or ("Text" in p) or ("TEXT" in p)) and (
                       ("editor" in p) or ("Editor" in p) or ("EDITOR" in p))):
+    
             a.speak("WELLCOME TO NOTEPAD")
             os.system("notepad")
 
@@ -142,7 +144,7 @@ elif i==2:
     else:
         print()
         print("***---***your input is invalid***---***")
-        a.speak("***---***your input is invalid***---***")
+        a.speak("your input is invalid")
         print("***---***please enter a valid input***--- ***")
-        a.speak("***---***please enter a valid input***--- ***")
+        a.speak("please enter a valid input")
         print()
