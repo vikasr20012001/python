@@ -3,7 +3,7 @@
 ![images](https://user-images.githubusercontent.com/66811679/90643031-ba5adf00-e250-11ea-83bf-0b668d3b5b66.png)
 
 
-## convert the same menu using CGI
+## convert the menue base  program using CGI
 
 ![1](https://user-images.githubusercontent.com/66811679/94348340-ec820c80-0058-11eb-880f-05fe38effdc6.PNG)
 
