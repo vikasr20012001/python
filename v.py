@@ -11,5 +11,5 @@ p=form.getvalue('a')
 
 output=y.getoutput("sudo " + cmd)
 
-print(output)
+print(output) 
 
