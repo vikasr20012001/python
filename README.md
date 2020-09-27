@@ -5,7 +5,8 @@
 
 ## convert the menue base  program using CGI
 
-![1](https://user-images.githubusercontent.com/66811679/94348340-ec820c80-0058-11eb-880f-05fe38effdc6.PNG)
+![6](https://user-images.githubusercontent.com/66811679/94369447-5a850d00-0107-11eb-9818-3da8d0d4598f.PNG)
+
 
 ![Capture](https://user-images.githubusercontent.com/66811679/94348346-f7d53800-0058-11eb-9b62-cec952f61fb6.PNG)
 
