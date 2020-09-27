@@ -6,10 +6,7 @@ print()
 
 
 form=cgi.FieldStorage()
-
-p=form.getvalue('a')
-
+cmd=form.getvalue('a')
 output=y.getoutput("sudo " + cmd)
-
 print(output) 
 
